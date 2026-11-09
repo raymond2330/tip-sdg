@@ -1218,6 +1218,75 @@ export const sdgData: SDG[] = [
           },
         ],
       },
+      {
+        id: "sdg-15-2",
+        title: "15.2 Supporting land ecosystems through education",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-15-2-1",
+            title: "15.2.1 Events about sustainable use of land",
+            link: "https://drive.google.com/file/d/1h3wy6dSrh7gNgLNvMd_PedHFxvfngFZa/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-15-2-3",
+            title: "15.2.3 Maintain and extend current ecosystems' biodiversity",
+            link: "https://drive.google.com/file/d/1MI-r8AMsXzhW39BaKDqYFUnkEQxkvA8k/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-15-2-5",
+            title: "15.2.5 Sustainable management of land for agriculture (educational outreach)",
+            link: "https://drive.google.com/file/d/12G3BRdEpT-idVvCYOJcvQu6cF2jZ3JlX/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-15-2-6",
+            title: "15.2.6 Sustainable management of land for tourism (educational outreach)",
+            link: "https://drive.google.com/file/d/1rogZSt-WKWMg_rYAhMgR7J8RnpLTVAJ5/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-15-3",
+        title: "15.3 Supporting land ecosystems through action",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-15-3-5",
+            title: "15.3.5 Collaboration for shared land ecosystems",
+            link: "https://drive.google.com/file/d/1enabq1FvHYwwIsK6CdPpDBaC1rF0DRbC/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-15-4",
+        title: "15.4 Land sensitive waste disposal",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-15-4-1",
+            title: "15.4.1 Water discharge guidelines and standards",
+            link: "https://drive.google.com/file/d/13yYciTqRh67ua0vbTOcuqQ-Qxos09V64/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-15-4-2",
+            title: "15.4.2 Policy on plastic waste reduction",
+            link: "https://drive.google.com/file/d/189LdI4D-esuW_uBHM1bKELRypUby8ffV/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-15-4-3",
+            title: "15.4.3 Policy on hazardous waste disposal",
+            link: "https://drive.google.com/file/d/1cTOYWP1Qfdck00tH2Pcv4iQxRBqslUYd/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
     ],
   },
   {
