@@ -40,6 +40,57 @@ export const sdgData: SDG[] = [
           },
         ],
       },
+      {
+        id: "sdg-1-2",
+        title: "1.2 Proportion of students receiving financial aid to attend university because of poverty",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-1-2-1",
+            title: "1.2.1 Low income students receiving financial aid: total students",
+            link: "https://drive.google.com/file/d/1yW7n1w6UvKBUxGt9l6Tgr880tTt7a2WJ/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-1-2-2",
+            title: "1.2.2 Low income students receiving financial aid: students receiving aid",
+            link: "https://drive.google.com/file/d/1NlFYpf9FDCkgYYlAYPtT9QY1tzxIyNdY/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-1-3",
+        title: "1.3 University anti-poverty programmes",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-1-3-1",
+            title: "1.3.1 Bottom financial quintile admission target",
+            link: "https://drive.google.com/file/d/1qE3apE8CPXROvI0IpPsb3H8SaB5iLz0X/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-1-3-4",
+            title: "1.3.4 Bottom financial quintile student support",
+            link: "https://drive.google.com/file/d/1ujk4CHnRKIbX4SIj9KQf0raD9IzQUVPk/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-1-4",
+        title: "1.4 Community anti-poverty programmes",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-1-4-1",
+            title: "1.4.1 - 1.4.3 Local start-up assistance and programmes for services access",
+            link: "https://drive.google.com/file/d/1vpQY87EM9rq9Y3cIpZOfYEMOmo_Lu2SP/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
     ],
   },
   {
@@ -58,6 +109,81 @@ export const sdgData: SDG[] = [
             link: "",
             description: "T.I.P. pledges to support food security initiatives through agricultural engineering innovations, community gardens, food technology research, and partnerships that promote sustainable food production and responsible consumption.",
             // imageCount: 3,
+          },
+        ],
+      },
+      {
+        id: "sdg-2-2",
+        title: "2.2 Campus food waste",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-2-2-1",
+            title: "2.2.1 Campus food waste tracking",
+            link: "https://drive.google.com/file/d/1QxAPOq2vIdKNpFkKcJaeB0A6oYz-A1ae/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-2-2-2",
+            title: "2.2.2 Campus food waste",
+            link: "https://drive.google.com/file/d/1J4d2qWmPNFCsRqIIwHmwWfaEUP6vEuZs/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-2-3",
+        title: "2.3 Student hunger",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-2-3-3",
+            title: "2.3.3 Sustainable food choices on campus",
+            link: "https://drive.google.com/file/d/1ThapWBcWWcbB55uO8kwMcI--05C9yzGg/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-2-3-4",
+            title: "2.3.4 Healthy and affordable food choices",
+            link: "https://drive.google.com/file/d/1MamjluoUqkv2OsMQkMlzrOG6Z_GIH52s/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-2-3-5",
+            title: "2.3.5 Staff hunger interventions",
+            link: "https://drive.google.com/file/d/1SMLWlqJyd0ZFdXwV3cktv5lNTyEBzfGc/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-2-5",
+        title: "2.5 National hunger",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-2-5-1",
+            title: "2.5.1 Access to food security knowledge",
+            link: "https://drive.google.com/file/d/1vEBOBo7fNHaugdcP5QygN1L6Deci7J9x/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-2-5-2",
+            title: "2.5.2 Events for local farmers and food producers",
+            link: "https://drive.google.com/file/d/1reFJszd8cUay13Yj3Z-ddPWdaxtDpRS3/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-2-5-3",
+            title: "2.5.3 University access to local farmers and food producers",
+            link: "https://drive.google.com/file/d/1HPaDns6TrdJoR_h-roloiNPsc7wWF6de/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-2-5-4",
+            title: "2.5.4 Sustainable food purchases",
+            link: "https://drive.google.com/file/d/15CfSmlklwk4WL-uG5aWSZuLyjME2ldnI/view?usp=sharing",
+            description: "",
           },
         ],
       },
@@ -128,43 +254,43 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-3-3-1",
             title: "3.3.1 Current collaborations with health institutions",
-            link: "https://drive.google.com/file/d/1pTY1YpKHapBVzcPP4bOq1MFKEX9S8sXV/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/11gu4s7HqBK4xsnACIYxJ8t0rnB49HFae/view?usp=sharing",
             description: "",
           },
           {
             id: "sdg-3-3-2",
             title: "3.3.2 Health outreach programmes",
-            link: "https://drive.google.com/file/d/1OZ6YQgpVQfTB6oAGEZucK7OE_td8i5so/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/14HA6yxscCWGHJpr_VUctJLqKWKOIGJ3g/view?usp=sharing",
             description: "",
           },
           {
             id: "sdg-3-3-3",
             title: "3.3.3 Shared sports facilities",
-            link: "https://drive.google.com/file/d/14XnbKTqYxXHsRq74878ABJvyXKhQLa2k/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/14HA6yxscCWGHJpr_VUctJLqKWKOIGJ3g/view?usp=sharing",
             description: "",
           },
           {
             id: "sdg-3-3-4",
             title: "3.3.4 Sexual and reproductive health care services for students",
-            link: "https://drive.google.com/file/d/17hC6kXgDF-xeJNxF_geXurF8dfRcHuSw/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1TKnYTPkc4Vj3EqxJ3_Jhlfq35S0xJCj-/view?usp=sharing",
             description: "",
           },
           {
             id: "sdg-3-3-5",
             title: "3.3.5 Mental health support for students",
-            link: "https://drive.google.com/file/d/1bfP8-YjoQOLlFkUF7VIkeFJX1ntBG91i/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1C5u8Av5I8x0uXDuVVjaQvP6DJFyvrtI_/view?usp=sharing",
             description: "",
           },
           {
             id: "sdg-3-3-6",
             title: "3.3.6 Smoke-free policy",
-            link: "https://drive.google.com/file/d/1o0hReQj5wFlyoLfzzWO_fc3Emqw4BhcX/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1WodKLI19MVvU4WflQt9O7Db_aQroLsO8/view?usp=sharing",
             description: "",
           },
           {
             id: "sdg-3-3-7",
             title: "3.3.7 Mental Health Support for Staff",
-            link: "https://drive.google.com/file/d/1No-MjqC9p3hVpTP5nro7oLdWNl4Q-Aeb/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1Pqo-piPW1Wcwmxk3VwjpLBxN69Yz8CY2/view?usp=sharing",
             description: "",
           },
         ],
@@ -177,16 +303,79 @@ export const sdgData: SDG[] = [
     title: "Quality Education",
     targets: [
       {
-        id: "sdg-4-1",
+        id: "sdg-4-0",
         title: "",
         link: "",
         indicators: [
           {
-            id: "sdg-4-1-1",
+            id: "sdg-4-0-1",
             title: "",
             link: "",
             description: "T.I.P. upholds its mission to transform students into globally competitive professionals through outcomes-based education, continuous faculty development, research integration, and lifelong learning opportunities.",
             // imageCount: 3,
+          },
+        ],
+      },
+      {
+        id: "sdg-4-1",
+        title: "4.1 Research on early years and lifelong learning education",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-4-1-1",
+            title: "4.1 Research on early years and lifelong learning education",
+            link: "https://drive.google.com/file/d/1eBiRYe6A-iImhjC7EVn_Txh9oKzJQB5S/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-4-3",
+        title: "4.3 Lifelong learning measures",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-4-3-1",
+            title: "4.3.1 Public resources (lifelong learning)",
+            link: "https://drive.google.com/file/d/1p-V2S4q1FO1e9zzvAnmA-UBgeit7eoUQ/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-4-3-2",
+            title: "4.3.2 Public events (lifelong learning)",
+            link: "https://drive.google.com/file/d/1pKIp1eY1pjQ09TVVqP7qSxqGV38_SU8L/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-4-3-3",
+            title: "4.3.3 Vocational training events (lifelong learning)",
+            link: "https://drive.google.com/file/d/1GKpnnXVcrX7GUjGZcWqdUZfOh3VSQuMt/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-4-3-4",
+            title: "4.3.4 Education outreach activities beyond campus",
+            link: "https://drive.google.com/file/d/1MCYxqOilovvshoPI1hmJma8OVIIIdw3O/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-4-3-5",
+            title: "4.3.5 Lifelong learning access policy",
+            link: "https://drive.google.com/file/d/1fSoT-y9ObE9t3fxQBD8uVE9Aobtgy4KA/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-4-4",
+        title: "4.4 Proportion of first-generation students",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-4-4-1",
+            title: "4.4.1 Proportion of first-generation students",
+            link: "https://drive.google.com/file/d/15fmkrTKQuO8u28bmxrNdoLgrcpCbAUSX/view?usp=sharing",
+            description: "",
           },
         ],
       },
@@ -208,6 +397,77 @@ export const sdgData: SDG[] = [
             link: "",
             description: "T.I.P. promotes an equitable learning and working environment where all genders have equal access to education, leadership, and advancement opportunities, ensuring policies that eliminate discrimination and harassment.",
             // imageCount: 3,
+          },
+        ],
+      },
+      {
+        id: "sdg-5-2",
+        title: "5.2 Proportion of first-generation female students",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-5-2-1",
+            title: "5.2 Proportion of first-generation female students",
+            link: "https://drive.google.com/file/d/16L4AWkMU4UDNlActj4KS0-gxEw6RDBKG/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-5-3",
+        title: "5.3 Student access measures",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-5-3-1",
+            title: "5.3 Student access measures",
+            link: "https://drive.google.com/file/d/12FfmXI4BoDKqBnA_YxNHNhaMNuTZXvyH/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-5-4",
+        title: "5.4 Proportion of senior female academics",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-5-4-1",
+            title: "5.4 Proportion of senior female academics",
+            link: "https://drive.google.com/file/d/1BI_4jZYNPFu8PRTxYFjCMb9YP5FMF4Fr/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-5-5",
+        title: "5.5 Proportion of women receiving degrees",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-5-5-1",
+            title: "5.5 Proportion of women receiving degrees",
+            link: "https://drive.google.com/file/d/1spxsTe7jd14WoAHsgp1iy6ciVKt4gzu-/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-5-6",
+        title: "5.6 Women's progress measures",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-5-6-3",
+            title: "5.6.3 Maternity policy",
+            link: "https://drive.google.com/file/d/1zyvo1PjxiePPUauKkx8w4vXDD4g318IU/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-5-6-9",
+            title: "5.6.9 Paternity policy",
+            link: "https://drive.google.com/file/d/1wF_jQumg3bZd0Cro9g26rX0lfum5JP-h/view?usp=sharing",
+            description: "",
           },
         ],
       },
@@ -247,14 +507,14 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-6-2-1",
             title: "6.2.1 Water consumption tracking",
-            link: "https://drive.google.com/file/d/17rY_iDpz2O2XxMkCLbpemctMAs4zGZAP/view?usp=sharing",
+            link: "https://drive.google.com/file/d/1xppsDmIh5m_kje6Pkp-VWJTZDOM1JWt7/view?usp=sharing",
             description: "",
             // imageCount: 2,
           },
           {
             id: "sdg-6-2-2",
             title: "6.2.2 Water consumption per person",
-            link: "https://drive.google.com/file/d/19nEF9yNGV-NDz67akDrbuZUJTaDjrIsK/view?usp=sharing",
+            link: "https://drive.google.com/file/d/1WCWY5pIic3NU4V5O4lKsORbet3_0MxiG/view?usp=sharing",
             description: "",
             // imageCount: 2,
           },
@@ -303,7 +563,7 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-6-5-1",
             title: "6.5.1 Water management educational opportunities",
-            link: "https://drive.google.com/file/d/1xAz4trysMfc1Z31MFHFFGHu5xnwPAGcu/view?usp=sharing",
+            link: "https://drive.google.com/file/d/1PQ-SGePNQn-EALcfpg9BmkoDAlwgrDB5/view?usp=sharing",
             description: "",
             // imageCount: 2,
           },
@@ -323,22 +583,22 @@ export const sdgData: SDG[] = [
           },
           {
             id: "sdg-6-5-5",
-            title: "6.5.5 Cooperation on water security ",
-            link: "https://drive.google.com/file/d/1Ta1u4zAAeppGCEWC7ZBTJO0NlP7-cP8b/view?usp=sharing",
+            title: "6.5.5 Cooperation on water security",
+            link: "https://drive.google.com/file/d/11ZuBVW3cL9Bhl1EUpSZWaO9S2r2-n9G3/view?usp=sharing",
             description: "",
             // imageCount: 2,
           },
-	  {
+          {
             id: "sdg-6-5-6",
             title: "6.5.6 Promoting conscious water usage on campus",
-            link: "https://drive.google.com/file/d/1b5v59CJvKCVQ5w43cfJbfKYOvFT0J5Ro/view?usp=sharing",
+            link: "https://drive.google.com/file/d/1UQaVDHaCkk65_VqV8AD-8zMBUrY_kxpv/view?usp=sharing",
             description: "",
             // imageCount: 2,
           },
-	  {
+          {
             id: "sdg-6-5-7",
             title: "6.5.7 Promoting conscious water usage in the wider community",
-            link: "https://drive.google.com/file/d/1ouU0iQRdnsyGogqu1rxsiJ7ZSbqxJgdi/view?usp=sharing",
+            link: "https://drive.google.com/file/d/1Ieqzx0uJ3_GEmB1LmqLjj2tY6OdWw5JV/view?usp=sharing",
             description: "",
             // imageCount: 2,
           },
@@ -368,21 +628,21 @@ export const sdgData: SDG[] = [
       {
         id: "sdg-7-1",
         title: "7.1 Research on clean energy",
-        link: "https://drive.google.com/file/d/1RASrnmfF55Ddec4ZEkXbZjvHZ2mMu3L7/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1gcBmMRCjytzS612UvJXACSfi5fMcvZn6/view?usp=sharing",
         indicators: [
         ],
       },
       {
         id: "sdg-7-2",
         title: "7.2 University measures towards affordable and clean energy",
-        link: "https://drive.google.com/file/d/15tHzzFxVSieKmS9KjWUfiQSvcHYkMAvy/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1w_YD8t5jsbO-dgfB6TRepJAeqASueLrR/view?usp=sharing",
         indicators: [
         ],
       },
       {
         id: "sdg-7-3",
         title: "7.3 Energy use density",
-        link: "https://drive.google.com/file/d/1peL4AJztYoKSipCAdxN0pQcucMqEXXvQ/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1X53hEZhexCV6Fc2Cyi5Sq6J5n4kNZZ6s/view?usp=sharing",
         indicators: [
         ],
       },
@@ -394,31 +654,31 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-7-4-1",
             title: "7.4.1 Local community outreach for energy efficiency",
-            link: "https://drive.google.com/file/d/1uR8syVBzLs_j8zFQrIXUUQCU0ExoubPE/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1SwuEQFHfsBQbuxE4wzRZHo9x09KrJ3mf/view?usp=sharing",
             description: ""
           },
           {
             id: "sdg-7-4-2",
             title: "7.4.2 100% renewable energy pledge",
-            link: "https://drive.google.com/file/d/1RkgMVUHmaGZollfaKO7RirWLcRqI7UeP/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1IHF5xh7WqrG1OvrBgBd_J0jGHOZma_LN/view?usp=sharing",
             description: ""
           },
           {
             id: "sdg-7-4-3",
             title: "7.4.3 Energy efficiency services for industry",
-            link: "https://drive.google.com/file/d/1biAdYLD82hrHmtYpwXl4xYAI4URroYjc/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1RIBma0-w4UjkXrY2F1XNnNqIbWE2-fQk/view?usp=sharing",
             description: ""
           },
           {
             id: "sdg-7-4-4",
             title: "7.4.4 Policy development for clean energy technology",
-            link: "https://drive.google.com/file/d/19dO1tSQ8tpVwA-Caq2EaFB5qZ7KGxzef/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1II5mK7Wh_QZVhwRMvULWFjxI7sRZ0dlH/view?usp=sharing",
             description: ""
           },
           {
             id: "sdg-7-4-5",
             title: "7.4.5 Assistance to low-carbon innovation",
-            link: "https://drive.google.com/file/d/1FOnMqfCIcVUB-k_jfoepPv_sRBVuDskW/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1UWiuqp7X88byMXvz3dAm29mEMqTNoYQF/view?usp=sharing",
             description: ""
           },
         ],
@@ -430,8 +690,8 @@ export const sdgData: SDG[] = [
         indicators: [
           {
             id: "sdg-7-5-1",
-            title: "7.5 Low-carbon energy use",
-            link: "https://drive.google.com/file/d/1S-qEe2GtAb4j-dGBPhkvxXoIGX4LTFZP/view?usp=drive_link",
+            title: "7.5.1 Low-carbon energy use",
+            link: "https://drive.google.com/file/d/1JlcmIhbYa1tev5upm3jN7dq8M3wPqmNS/view?usp=sharing",
             description: ""
           },
         ],
@@ -458,7 +718,7 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-8-1-2",
             title: "8.1.2 Decent Work and Economic Growth: publications",
-            link: "https://drive.google.com/file/d/1CTVolHcAgQCF4XQ9YbDY4-D1fcX9L2Ae/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/19SDu67Bcb2GGRh0LozGxULFaG2A4HNk-/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
@@ -472,82 +732,82 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-8-2-1",
             title: "8.2.1 Employment practice living wage",
-            link: "https://drive.google.com/file/d/1uJqHTT7CE-sN3kiBxXcfyr26TjCIzmE9/view",
+            link: "https://drive.google.com/file/d/1hv-iFS2sdKrQP_e5jfm3V6txOhpmADG-/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-2",
             title: "8.2.2 Employment practice unions",
-            link: "https://drive.google.com/file/d/1WbnXqMcUQquaTSeRt39Ng6qIM83X0z3X/view",
+            link: "https://drive.google.com/file/d/1hUh7ZNyhdcwe9CC_HQUZlh81iktVQR54/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-3",
             title: "8.2.3 Employment policy on discrimination",
-            link: "https://drive.google.com/file/d/1vAFGaIqGj3rBlvrp6yJKwpBwgZ_IQ6wA/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/14fOqFUrVmMaxBhARDZCjMV0I0t4VDi8A/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-4",
             title: "8.2.4 Employment policy modern slavery",
-            link: "https://drive.google.com/file/d/1-e1g4UeewxxKZU3UbXS_uDhqGSbayh4S/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1sbsGUaVz2t1KTDDisniyFLWWf1LlTyM4/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-5",
             title: "8.2.5 Employment practice equivalent rights outsourcing",
-            link: "https://drive.google.com/file/d/1Q-o1pxpXTL-F2JUQiBKGSThDkXihv16w/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1_Yf6Iteap8M414p1Gzcp0u4AqLQ-sykb/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-6",
             title: "8.2.6 Employment policy pay scale equity",
-            link: "https://drive.google.com/file/d/11QWdFSvBQUkXg7Q1-U9gZ8AAGCCQSseR/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1RliQjcDUJvuP6KUCnWTeHIhHcsUkDBuO/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-7",
             title: "8.2.7 Tracking pay scale for gender equity",
-            link: "https://drive.google.com/file/d/1EZ1kpqtOUn3W0Mp-nOjHN_6khxszGpjn/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1vvl2h6OFqJT5rlcJo4crukzw1-efSxwD/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-8",
             title: "8.2.8 Employment practice appeal process",
-            link: "https://drive.google.com/file/d/1M4MDFd3V-_t2zYGcHB4mNXCxZWaBvMHR/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1FT5vWETiZVZ-TOwu9XRndPtzPNPo7Blb/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
           {
             id: "sdg-8-2-9",
             title: "8.2.9 Employment practice labour rights",
-            link: "https://drive.google.com/file/d/1KXMrkiY2VzcVhF3pjJEPot7Ej2id_gbs/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1_cbtjxp3JhC0TReRh4OahQuxw5Zs6CJ2/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
         ],
       },
-      // {
-      //   id: "sdg-8-3",
-      //   title: "8.3 Expenditure per employee",
-      //   link: "",
-      //   indicators: [
-      //     {
-      //       id: "sdg-8-3-1",
-      //       title: "8.3.1 Indicator: Expenditure per employee",
-      //       link: "https://drive.google.com/file/d/1aEGIKeF34CQEqJ9IkoqjDTsm82XrG5zJ/view?usp=drive_link",
-      //       description: "",
-      //       // imageCount: 3,
-      //     },
-      //   ],
-      // },
+      {
+        id: "sdg-8-3",
+        title: "8.3 Expenditure per employee",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-8-3-1",
+            title: "8.3.1 Indicator: Expenditure per employee",
+            link: "https://drive.google.com/file/d/1mccYTUOmOujrxYESfsEZVaYsBeGcFdpD/view?usp=sharing",
+            description: "",
+            // imageCount: 3,
+          },
+        ],
+      },
       {
         id: "sdg-8-4",
         title: "8.4 Proportion of students taking work placements",
@@ -556,7 +816,7 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-8-4-1",
             title: "8.4.1 Indicator: Proportion of students with work placements",
-            link: "https://drive.google.com/file/d/1fr2klIN68S_DrsKjF4c3G9-2um6mQg7e/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1AQEMUdbz1ynm78BPp4iTKbvKTFGcJLdF/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
@@ -570,7 +830,7 @@ export const sdgData: SDG[] = [
           {
             id: "sdg-8-5-1",
             title: "8.5.1 Indicator: Proportion of employees on secure contracts",
-            link: "https://drive.google.com/file/d/1beEX0NQP7EHa78AfSpMgKfOUvU_Qv5NQ/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1VHSLcvizMT0RC53epSz5Bi8a6YyxZ2Xc/view?usp=sharing",
             description: "",
             // imageCount: 3,
           },
@@ -584,16 +844,42 @@ export const sdgData: SDG[] = [
     title: "Industry, Innovation and Infrastructure",
     targets: [
       {
-        id: "sdg-9-1",
+        id: "sdg-9-0",
         title: "",
         link: "",
         indicators: [
           {
-            id: "sdg-9-1-1",
+            id: "sdg-9-0-1",
             title: "",
             link: "",
             description: "T.I.P. commits to strengthening its Technopreneurship and Collaborative Research (TechnoCoRe) programs, developing innovative and sustainable laboratories, and driving innovation that supports resilient infrastructure and responsible industrial growth.",
             // imageCount: 3,
+          },
+        ],
+      },
+      {
+        id: "sdg-9-1",
+        title: "9.1 Research on industry, innovation and infrastructure",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-9-1-1",
+            title: "9.1.1 Industry, Innovation and Infrastructure: publications",
+            link: "https://drive.google.com/file/d/14qplOmJdZ0QSRb3Jrdhu3FLXo4vGFN97/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-9-2",
+        title: "9.2 Patents citing university research",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-9-2-1",
+            title: "9.2.1 Number of patents citing research",
+            link: "https://drive.google.com/file/d/1g56MGmOaj4uZNhRin96N8-78XWNZKe0e/view?usp=sharing",
+            description: "",
           },
         ],
       },
@@ -626,16 +912,61 @@ export const sdgData: SDG[] = [
     title: "Sustainable Cities and Communities",
     targets: [
       {
-        id: "sdg-11-1",
+        id: "sdg-11-0",
         title: "",
         link: "",
         indicators: [
           {
-            id: "sdg-11-1-1",
+            id: "sdg-11-0-1",
             title: "",
             link: "",
             description: "T.I.P. pledges to make its campuses models of sustainability through green building initiatives, safe learning environments, disaster resilience planning, and community engagement in sustainable urban development.",
             // imageCount: 3,
+          },
+        ],
+      },
+      {
+        id: "sdg-11-1",
+        title: "11.1 Research on sustainable cities and communities",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-11-1-2",
+            title: "11.1.2 Sustainable Cities and Communities: research citation impact",
+            link: "https://drive.google.com/file/d/1Bjkl7jl8KF1tK6eHXelczn0Jyuynk4OR/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-11-2",
+        title: "11.2 Support of arts and heritage",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-11-2-3",
+            title: "11.2.3 Preserving cultural heritage",
+            link: "https://drive.google.com/file/d/1ZzBEo1InxChxMCDkUYEKFeaTs3vKv5Sn/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-11-2-5",
+            title: "11.2.5 Arts and cultural engagement",
+            link: "https://drive.google.com/file/d/16g1M35Z-TsrBdk36l94qJWJSMMAPPtvL/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-11-4",
+        title: "11.4 Sustainable practices",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-11-4-6",
+            title: "11.4.6 Pedestrian priority on campus",
+            link: "https://drive.google.com/file/d/11GiXjdMvmL3zm8m6ywWqvXmdNkp-TV9S/view?usp=sharing",
+            description: "",
           },
         ],
       },
@@ -668,16 +999,73 @@ export const sdgData: SDG[] = [
     title: "Climate Action",
     targets: [
       {
-        id: "sdg-13-1",
+        id: "sdg-13-0",
         title: "",
         link: "",
         indicators: [
           {
-            id: "sdg-13-1-1",
+            id: "sdg-13-0-1",
             title: "",
             link: "",
             description: "T.I.P. pledges to reduce its environmental impact through energy conservation, greening initiatives, and climate education, while integrating disaster risk reduction and climate resilience into its institutional operations and curricula.",
             // imageCount: 3,
+          },
+        ],
+      },
+      {
+        id: "sdg-13-1",
+        title: "13.1 Research on climate action",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-13-1-1",
+            title: "13.1 Research on climate action",
+            link: "https://drive.google.com/file/d/1vsM-T1nOHY0SPbqKxZ1ZxuOBEyRQG3tw/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-13-2",
+        title: "13.2 Low-carbon energy use",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-13-2-1",
+            title: "13.2.1 Low-carbon energy tracking",
+            link: "https://drive.google.com/file/d/1x2PBGLuyh88FOeeJpwjUi0p-JEjTCgdX/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-13-2-2",
+            title: "13.2.2 Low-carbon energy use",
+            link: "https://drive.google.com/file/d/1JpROiVz3KjtOUadj6fmGxYuTR6WjggBm/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-13-3",
+        title: "13.3 Environmental education measures",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-13-3-1",
+            title: "13.3.1 Local education programmes on climate",
+            link: "https://drive.google.com/file/d/12ohMog5ZlP1uLC2tc4owKXwoPpOtfYhC/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-13-3-2",
+            title: "13.3.2 Climate Action Plan, shared",
+            link: "https://drive.google.com/file/d/1QPi3hT795FTYZRfKznQcQgrkr6N9HCG3/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-13-3-3",
+            title: "13.3.3 Co-operative planning for climate change disasters",
+            link: "https://drive.google.com/file/d/11HCuSiji2aRkCkoRiTZN6TyAtombVFtr/view?usp=sharing",
+            description: "",
           },
         ],
       },
@@ -689,16 +1077,123 @@ export const sdgData: SDG[] = [
     title: "Life Below Water",
     targets: [
       {
-        id: "sdg-14-1",
+        id: "sdg-14-0",
         title: "",
         link: "",
         indicators: [
           {
-            id: "sdg-14-1-1",
+            id: "sdg-14-0-1",
             title: "",
             link: "",
             description: "T.I.P. supports initiatives for water conservation, pollution prevention, and research that protect marine and freshwater ecosystems, especially in communities affected by environmental degradation and industrial waste.",
             // imageCount: 3,
+          },
+        ],
+      },
+      {
+        id: "sdg-14-1",
+        title: "14.1 Research on life below water",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-14-1-1",
+            title: "14.1 Research on life below water",
+            link: "https://drive.google.com/file/d/1Llo6eHrIeH5XaglkK6lCZBwPxP8UJ4XE/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-14-2",
+        title: "14.2 Supporting aquatic ecosystems through education",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-14-2-1",
+            title: "14.2.1 Fresh-water ecosystems (community outreach)",
+            link: "https://drive.google.com/file/d/1KcuGWfe9nvil8-DDGeE3YMuKKOk2tTFV/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-14-2-2",
+            title: "14.2.2 Sustainable fisheries (community outreach)",
+            link: "https://drive.google.com/file/d/1sxUc8G_sPeUfUMPnjYM7P2l6lUkQ51Es/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-14-3",
+        title: "14.3 Supporting aquatic ecosystems through action",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-14-3-1",
+            title: "14.3.1 Conservation and sustainable utilisation of the oceans (events)",
+            link: "https://drive.google.com/file/d/1YVdBJZ4-UKaPh-YmcFuTpsnMB-sP0_Pe/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-14-3-3",
+            title: "14.3.3 Maintain ecosystems and their biodiversity (direct work)",
+            link: "https://drive.google.com/file/d/1T49uC0dlovqSd1JCeA-6LTm5_4NIOGfQ/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-14-3-4",
+            title: "14.3.4 Technologies towards aquatic ecosystem damage prevention (direct work)",
+            link: "https://drive.google.com/file/d/1GEGOmRbqXhDmUbtUhoZQY0eaxLsIvUXo/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-14-4",
+        title: "14.4 Water sensitive waste disposal",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-14-4-1",
+            title: "14.4.1 Water discharge guidelines and standards",
+            link: "https://drive.google.com/file/d/1tN3pyPL9dYCRf5VlZah7InqDXrHuuYT1/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-14-4-2",
+            title: "14.4.2 Action plan to reduce plastic waste",
+            link: "https://drive.google.com/file/d/1SaIBEgljhibythPBOgsR_ZuzvW_-hbK6/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-14-4-3",
+            title: "14.4.3 Reducing marine pollution (policy)",
+            link: "https://drive.google.com/file/d/151kmmGZTW1k9JQrwalyrmgHUoRPzgayO/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
+      {
+        id: "sdg-14-5",
+        title: "14.5 Maintaining a local ecosystem",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-14-5-3",
+            title: "14.5.3 Programmes towards good aquatic stewardship practices",
+            link: "https://drive.google.com/file/d/155k2qoTyNs0eIdlNzwbSphKvpdqtG9Hw/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-14-5-4",
+            title: "14.5.4 Collaboration for shared aquatic ecosystems",
+            link: "https://drive.google.com/file/d/13GBdvWzRJMsZqVPAmdAy_zDnzS8_Yy9y/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-14-5-5",
+            title: "14.5.5 Watershed management strategy",
+            link: "https://drive.google.com/file/d/1LXpE9ofMyti5KDt1QUjIouu64vJ4gUYj/view?usp=sharing",
+            description: "",
           },
         ],
       },
@@ -744,6 +1239,43 @@ export const sdgData: SDG[] = [
           },
         ],
       },
+      {
+        id: "sdg-16-2",
+        title: "16.2 University governance measures",
+        link: "",
+        indicators: [
+          {
+            id: "sdg-16-2-2",
+            title: "16.2.2 Students' union",
+            link: "https://drive.google.com/file/d/12M-fLi4kv0goPiOqXlFIDiFp6-Yvdx97/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-16-2-3",
+            title: "16.2.3 Identify and engage with local stakeholders",
+            link: "https://drive.google.com/file/d/1mDOEvJY-M-lc8Uq_wUM4Eh_9dvwO5BR8/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-16-2-4",
+            title: "16.2.4 Participatory bodies for stakeholder engagement",
+            link: "https://drive.google.com/file/d/1_fhgTjNrEN42OA5oEqn4p99z3crGZ-Ca/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-16-2-5",
+            title: "16.2.5 University principles on bribery and corruption",
+            link: "https://drive.google.com/file/d/1ptmFNn9hqITpjeUCP0MVLdIXknM6AGvA/view?usp=sharing",
+            description: "",
+          },
+          {
+            id: "sdg-16-2-6",
+            title: "16.2.6 Academic freedom policy",
+            link: "https://drive.google.com/file/d/13aGRVSUqDoBB-GxoXCzW6z-GcOXokJgL/view?usp=sharing",
+            description: "",
+          },
+        ],
+      },
     ],
   },
   {
@@ -766,86 +1298,15 @@ export const sdgData: SDG[] = [
         ],
       },
       {
-        id: "sdg-17-2",
-        title: "17.2 Relationships to support the goals",
+        id: "sdg-17-1",
+        title: "SDG 17 Partnerships for the Goals",
         link: "",
         indicators: [
           {
-            id: "sdg-17-2-1",
-            title: "17.2.1 Relationships with regional NGOs and government for SDG policy",
-            link: "https://drive.google.com/file/d/17iwYEuJncG1jNKRKRIqrW-_Si-UlJs4T/view?usp=sharing",
+            id: "sdg-17-1-1",
+            title: "SDG 17 Partnerships for the Goals: evidence",
+            link: "https://drive.google.com/file/d/1pMUVkWkScVCtPhJ5P_eb8zyQ2Rw6vI3N/view?usp=sharing",
             description: "",
-            // imageCount: 3,
-          },
-          {
-            id: "sdg-17-2-2",
-            title: "17.2.2 Cross sectoral dialogue about SDGs",
-            link: "https://drive.google.com/file/d/1tQ9ekzrPX9E6JlHLRZYMP-NFGOUsRB0g/view?usp=sharing",
-            description: "",
-            // imageCount: 2,
-          },
-          {
-            id: "sdg-17-2-3",
-            title: "17.2.3 International collaboration data gathering for SDG",
-            link: "https://drive.google.com/file/d/1Rx5-dmm4KLEKU-4s8qFHZ96OwyzaYSoH/view?usp=sharing",
-            description: "",
-            // imageCount: 2,
-          },
-          {
-            id: "sdg-17-2-4",
-            title: "17.2.4 Collaboration for SDG best practice",
-            link: "https://drive.google.com/file/d/1BcCr3AU7BzMtCMnoRdBEWmksMyF7a20A/view?usp=sharing",
-            description: "",
-            // imageCount: 2,
-          },
-          {
-            id: "sdg-17-2-5",
-            title: "17.2.5 Collaboration with NGOs for SDGs",
-            link: "https://drive.google.com/file/d/1hpw2c4QqX70VhL3mBB1xf_Dx7dlLhpnG/view?usp=sharing",
-            description: "",
-            // imageCount: 2,
-          },
-        ],
-      },
-      {
-        id: "sdg-17-3",
-        title: "",
-        link: "",
-        indicators: [
-          {
-            id: "sdg-17-3-1",
-            title: "17.3.1 to 17.3.17 Publication of SDG reports - per SDG",
-            link: "https://tip-sdg-411d547782ea.herokuapp.com/",
-            description: "",
-            // imageCount: 3,
-          },
-        ],
-      },
-      {
-        id: "sdg-17-4",
-        title: "17.4 Education for the SDGs",
-        link: "",
-        indicators: [
-          {
-            id: "sdg-17-4-1",
-            title: "17.4.1 Education for SDGs commitment to meaningful education",
-            link: "https://drive.google.com/file/d/1JSBlKZ-ujThNkzGfAPF9QbJRtxe3xAhs/view?usp=sharing",
-            description: "",
-            // imageCount: 3,
-          },
-          {
-            id: "sdg-17-4-2",
-            title: "17.4.2 Education for SDGs: specific courses on sustainability",
-            link: "https://drive.google.com/file/d/1-2ui21RfaZlvP37-mppCzaQWgNnRgkUG/view?usp=sharing",
-            description: "",
-            // imageCount: 3,
-          },
-          {
-            id: "sdg-17-4-3",
-            title: "17.4.3 Education for SDGs in the wider community",
-            link: "https://drive.google.com/file/d/1dRsi7g4xxzDAoerHlfHhvu_5br__l9F7/view?usp=sharing",
-            description: "",
-            // imageCount: 3,
           },
         ],
       },
